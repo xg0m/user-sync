@@ -1,0 +1,12 @@
+employee_id;first_name;last_name;unit;job_title;manager_id;status
+1;Anna;Kowalska;Dział Kadr;Kierownik działu kadr;;aktywny
+2;Piotr;Nowak;Dział Finansów;Specjalista ds. finansowych;1;aktywny
+3;Maria;Wiśniewska;Wydział Informatyki;Profesor;1;aktywny
+4;Jan;Wójcik;Wydział Informatyki;Asystent;3;aktywny
+5;Katarzyna;Kamińska;Wydział Informatyki;Profesor;1;zwolniony
+6;Tomasz;Lewandowski;Dział IT;Specjalista IT;1;aktywny
+7;Jan;Kowalski;Dział IT;Administrator systemów;1;aktywny
+8;Łukasz;Żółkiewski;Wydział Mechaniczny;Asystent;3;aktywny
+9;Ewa;Zielińska;Dział Finansów;Referent;2;aktywny
+10;Marek;Szymański;Dział Marketingu;Specjalista;1;aktywny
+11;Joanna;Pawlak;Dział Kadr;Referent;1;urlop
