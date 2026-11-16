@@ -1,0 +1,11 @@
+{
+  "base_groups": ["GRP_Pracownicy"],
+  "manager_group": "GRP_Kierownicy",
+  "units": {
+    "Dział Kadr": "GRP_Kadry",
+    "Dział Finansów": "GRP_Finanse",
+    "Dział IT": "GRP_IT",
+    "Wydział Informatyki": "GRP_WI",
+    "Wydział Mechaniczny": "GRP_WM"
+  }
+}
