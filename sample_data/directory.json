@@ -1,0 +1,123 @@
+[
+  {
+    "login": "akowalska",
+    "employee_id": "1",
+    "first_name": "Anna",
+    "last_name": "Kowalska",
+    "unit": "Dział Kadr",
+    "job_title": "Kierownik działu kadr",
+    "enabled": true,
+    "groups": [
+      "GRP_Kadry",
+      "GRP_Kierownicy",
+      "GRP_Pracownicy"
+    ]
+  },
+  {
+    "login": "pnowak",
+    "employee_id": "2",
+    "first_name": "Piotr",
+    "last_name": "Nowak",
+    "unit": "Dział Finansów",
+    "job_title": "Specjalista ds. finansowych",
+    "enabled": true,
+    "groups": [
+      "GRP_Finanse",
+      "GRP_Kierownicy",
+      "GRP_Pracownicy"
+    ]
+  },
+  {
+    "login": "mwisniewska",
+    "employee_id": "3",
+    "first_name": "Maria",
+    "last_name": "Wiśniewska",
+    "unit": "Wydział Informatyki",
+    "job_title": "Adiunkt",
+    "enabled": true,
+    "groups": [
+      "GRP_Pracownicy",
+      "GRP_WI"
+    ]
+  },
+  {
+    "login": "jwojcik",
+    "employee_id": "4",
+    "first_name": "Jan",
+    "last_name": "Wójcik",
+    "unit": "Wydział Informatyki",
+    "job_title": "Asystent",
+    "enabled": true,
+    "groups": [
+      "GRP_Pracownicy",
+      "GRP_WI"
+    ]
+  },
+  {
+    "login": "kkaminska",
+    "employee_id": "5",
+    "first_name": "Katarzyna",
+    "last_name": "Kamińska",
+    "unit": "Wydział Informatyki",
+    "job_title": "Profesor",
+    "enabled": true,
+    "groups": [
+      "GRP_Pracownicy",
+      "GRP_WI"
+    ]
+  },
+  {
+    "login": "tlewandowski",
+    "employee_id": "6",
+    "first_name": "Tomasz",
+    "last_name": "Lewandowski",
+    "unit": "Dział Kadr",
+    "job_title": "Specjalista IT",
+    "enabled": true,
+    "groups": [
+      "GRP_Kadry",
+      "GRP_Pracownicy"
+    ]
+  },
+  {
+    "login": "ezielinska",
+    "employee_id": "9",
+    "first_name": "Ewa",
+    "last_name": "Zielińska",
+    "unit": "Dział Finansów",
+    "job_title": "Referent",
+    "enabled": false,
+    "groups": []
+  },
+  {
+    "login": "jkowalski",
+    "employee_id": "90",
+    "first_name": "Jan",
+    "last_name": "Kowalski",
+    "unit": "Dział IT",
+    "job_title": "Technik",
+    "enabled": false,
+    "groups": []
+  },
+  {
+    "login": "agrabowski",
+    "employee_id": "91",
+    "first_name": "Adam",
+    "last_name": "Grabowski",
+    "unit": "Wydział Mechaniczny",
+    "job_title": "Asystent",
+    "enabled": true,
+    "groups": [
+      "GRP_Pracownicy",
+      "GRP_WM"
+    ]
+  },
+  {
+    "login": "svc_backup",
+    "description": "Konto techniczne kopii zapasowych",
+    "enabled": true,
+    "groups": [
+      "GRP_Backup"
+    ]
+  }
+]
